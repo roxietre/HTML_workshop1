@@ -51,7 +51,7 @@ to add image in our html page wee gonna use [img](https://www.w3schools.com/tags
 ```
 
 <details>
-    <p>A word in <font color="#1E90FF">blue</font></p>
+    <p>A word in <a style="color:blue"> blue</a></p>
     <img src="https://user-images.githubusercontent.com/49811529/182241478-40f5e380-8de1-4062-96c3-1acde999ad90.png" alt="backround image"/>
 </details>
 
