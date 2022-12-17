@@ -51,6 +51,7 @@ to add image in our html page wee gonna use [img](https://www.w3schools.com/tags
 ```
 
 <details>
+    <summary>✔️ Result preview</summary>
     <p>A word in <a style="color:blue"> blue</a></p>
     <img src="https://user-images.githubusercontent.com/49811529/182241478-40f5e380-8de1-4062-96c3-1acde999ad90.png" alt="backround image"/>
 </details>
@@ -62,6 +63,7 @@ to add a link in our text or other tags wee use [href=](https://www.w3schools.co
 for a list wee use a [li](https://www.w3schools.com/tags/tag_li.asp)
 
 <details>
+    <summary>✔️ Result preview</summary>
     <p>This is a <a href="https://google.com">link to google</a>.</p>
     <ul>
         <li>First element of the list</li>
@@ -79,6 +81,7 @@ The [tr](https://www.w3schools.com/tags/tag_tr.asp) element defines a table row,
 And now [input](https://www.w3schools.com/tags/tag_input.asp) 
 
 <details>
+    <summary>✔️ Result preview</summary>
     <table>
     <caption>Un titre</caption>
     <tr>
