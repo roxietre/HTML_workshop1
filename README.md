@@ -39,13 +39,13 @@ To look at your page its easy just copy the path of your file in your web browse
 
 Now lets see some more specifique Tags first lets add some colors and image.
 
-to add some color in our text 2 solution [<font>](https://www.w3schools.com/tags/tag_font.asp) but its a old solution now a day wee use css and [style](https://www.w3schools.com/tags/tag_font.asp)
+to add some color in our text 2 solution [font](https://www.w3schools.com/tags/tag_font.asp) but its a old solution now a day wee use css and [style](https://www.w3schools.com/tags/tag_font.asp)
 ```html
 <p>A word in <font color="#1E90FF">blue</font></p>
 <p>A word in <p style="color:blue">blue</p></p>
 ```
 
-to add image in our html page wee gonna use [<img>](https://www.w3schools.com/tags/tag_img.asp)
+to add image in our html page wee gonna use [img](https://www.w3schools.com/tags/tag_img.asp)
 ```html
 <img src="./marmotte.png" alt="Groundhog image" />
 ```
@@ -59,7 +59,7 @@ wee can also add a link to a other page or even a list.
 
 to add a link in our text or other tags wee use [href=](https://www.w3schools.com/tags/att_a_href.asp)
 
-for a list wee use a [<li>](https://www.w3schools.com/tags/tag_li.asp)
+for a list wee use a [li](https://www.w3schools.com/tags/tag_li.asp)
 
 <details>
     <p>This is a <a href="https://google.com">link to google</a>.</p>
@@ -73,10 +73,10 @@ for a list wee use a [<li>](https://www.w3schools.com/tags/tag_li.asp)
 
 ## Step 3: input and table
 
-lets start with [<table>](https://www.w3schools.com/tags/tag_table.asp) that consists of one [<table>](https://www.w3schools.com/tags/tag_table.asp) and one or more [<tr>](https://www.w3schools.com/tags/tag_tr.asp), [<th>](https://www.w3schools.com/tags/tag_th.asp), and [<td>](https://www.w3schools.com/tags/tag_td.asp) elements.
-The [<tr>](https://www.w3schools.com/tags/tag_tr.asp) element defines a table row, the [<th>](https://www.w3schools.com/tags/tag_th.asp) element defines a table header, and the <td> element defines a table cell.
+lets start with [table](https://www.w3schools.com/tags/tag_table.asp) that consists of one [table](https://www.w3schools.com/tags/tag_table.asp) and one or more [tr](https://www.w3schools.com/tags/tag_tr.asp), [th](https://www.w3schools.com/tags/tag_th.asp), and [td](https://www.w3schools.com/tags/tag_td.asp) elements.
+The [tr](https://www.w3schools.com/tags/tag_tr.asp) element defines a table row, the [th](https://www.w3schools.com/tags/tag_th.asp) element defines a table header, and the [td](https://www.w3schools.com/tags/tag_td.asp) element defines a table cell.
 
-And now [<input>](https://www.w3schools.com/tags/tag_input.asp) 
+And now [input](https://www.w3schools.com/tags/tag_input.asp) 
 
 <details>
     <table>
@@ -118,4 +118,4 @@ Congratulations, you know how to use tags in htlm now its time for full personal
 
 <br/><br/>
 ## Authors
-| [<img src="https://github.com/roxietre.png?size=85" width=85><br><sub>roxietre</sub>] |
+<img src="https://github.com/roxietre.png?size=85" width=85><br><sub>roxietre</sub>
